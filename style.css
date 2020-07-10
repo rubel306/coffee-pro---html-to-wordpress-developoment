@@ -1,0 +1,20 @@
+/*
+Theme Name: Coffee Pro
+Theme URI: https://www.devrubel.com
+Author: Rubel Hasan
+Author URI:https://www.devrubel.com
+Version: 1.0
+Tags: coffee, coffee pro, blog, blog coffee
+Text Domain: coffee_pro
+
+*/
+.abt-left img {
+    height: 250px !important;
+}
+.about-tre img {
+    width: 100%;
+    height: auto;
+}
+mark{
+	background: yellow !important;
+}
